@@ -1,0 +1,14 @@
+/** @format */
+
+:root {
+  --first-color: whitesmoke;
+  --second-color: #454545;
+  --font-heading: "Merriweather", serif;
+  --font-body: "Open Sans", sans-serif;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
