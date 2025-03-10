@@ -2,7 +2,7 @@
 
 .hero {
   /* background-color: #212121; */
-  max-height: 100dvh;
+  min-height: 100dvh;
   display: flex;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.15);
   background-color: var(--first-color);
